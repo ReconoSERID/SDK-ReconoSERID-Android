@@ -1,4 +1,4 @@
-# SDK-ReconoSerId-Android
+# SDK-ReconoSERID-Android
 ReconoSerSdk es una libreria de [ReconoSERID](https://reconoserid.com/) desde donde vas a poder llamar servicios como consultar convenio, enviar OTP, verficar OTP, Rostro vivo
 
 ## **Requerimientos** ##
