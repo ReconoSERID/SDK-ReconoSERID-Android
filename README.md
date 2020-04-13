@@ -16,16 +16,9 @@ ReconoSerSdk es una libreria de Olimpia desde donde vas a poder llamar servicios
 
 LibraryReconoSer.init(this, getApplicationContext(), "Identificador único de convenio", "Datos adicionales");
 ```
-![initSdk.jpg](https://bitbucket.org/repo/xXjoGMq/images/3266264550-initSdk.jpg)
 
 ## **Instalación** ##
 
-[Guia Instalación](https://bitbucket.org/reconoser_id/sdk_android/wiki/Instalacion)
+[Guia Instalación](https://github.com/ReconoSERID/SDK-ReconoSerId-Android/wiki)
 
-## **Metodos** ##
-* [Servicios](https://bitbucket.org/reconoser_id/sdk_android/wiki/Servicios)
-* [UI](https://bitbucket.org/reconoser_id/sdk_android/wiki/UI_Interfaz)
-
-## **Errores** ##
-[Tabla de Errores](https://bitbucket.org/reconoser_id/sdk_android/wiki/Codigos_Error)
 
