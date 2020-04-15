@@ -1,24 +1,28 @@
-# SDK-ReconoSERID-Android
-ReconoSerSdk es una libreria de [ReconoSERID](https://reconoserid.com/) desde donde vas a poder llamar servicios como consultar convenio, enviar OTP, verficar OTP, Rostro vivo
+# SDK reconoSER ID Android
+
+Este SDK de [reconoSER ID](https://reconoserid.com/), proporciona pantallas y métodos para aplicaciones Android que permiten capturar y analizar documentos de identidad y rostros en vivo con el fin de verificar en base a la información suminsitrada la identidad digital de sus usuarios.
+
+Este SDK se integra al API administrador de reconoSER ID, permitiendo visualizar las interacciones y acciones de sus usuarios mediante el **authToken** y el **GUIDConvenio** suministrados por el equipo comercial.
+
 
 ## **Requerimientos** ##
 
 * minSdkVersion 22
-* Soporte java version 8
+* Soporte para Java version 8
 
-* Permiso Internet
-* Permiso Camera
-* Permiso Telefono
-* Inicializar el SDK en Application
-   
+El SDK Solicita los permisos del telefono para:
+
+* Internet
+* Cámara
+* Teléfono
+
+Para esto, debe inicializar el SDK en *Application*
 ```
 #!android
 
 LibraryReconoSer.init(this, getApplicationContext(), "Identificador único de convenio", "Datos adicionales");
 ```
 
-## **Instalación** ##
-
-[Wiki](https://github.com/ReconoSERID/SDK-ReconoSerId-Android/wiki)
+[Ver Wiki](https://github.com/ReconoSERID/SDK-ReconoSerId-Android/wiki)
 
 
