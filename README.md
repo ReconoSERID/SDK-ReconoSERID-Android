@@ -19,6 +19,6 @@ LibraryReconoSer.init(this, getApplicationContext(), "Identificador único de co
 
 ## **Instalación** ##
 
-[Guia Instalación](https://github.com/ReconoSERID/SDK-ReconoSerId-Android/wiki)
+[Wiki](https://github.com/ReconoSERID/SDK-ReconoSerId-Android/wiki)
 
 
