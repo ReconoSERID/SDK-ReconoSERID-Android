@@ -10,19 +10,12 @@ Este SDK se integra al API administrador de reconoSER ID, permitiendo visualizar
 * minSdkVersion 22
 * Soporte para Java version 8
 
-El SDK Solicita los permisos del telefono para:
+El SDK Solicita los permisos al sistema de:
 
 * Internet
 * Cámara
 * Teléfono
 
-Para esto, debe inicializar el SDK en *Application*
-```
-#!android
-
-LibraryReconoSer.init(this, getApplicationContext(), "Identificador único de convenio", "Datos adicionales");
-```
-
-[Ver Wiki](https://github.com/ReconoSERID/SDK-ReconoSerId-Android/wiki)
+[Ver documentación](https://github.com/ReconoSERID/SDK-ReconoSerId-Android/wiki)
 
 
