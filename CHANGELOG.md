@@ -8,4 +8,6 @@ new: new parameters were added for UI face<br>
 
 ## **Version 1.4.7(03-06-2020)** ##
 
-new: a new parameter has been added to SolicitudProceso which is used in getProcessRequest
+new: A new parameter has been added to SolicitudProceso which is used in getProcessRequest<br>
+new: The answer was changed in the document by grouping it into a single object that will contain the objects previously obtained
+new: Read ecuadorian document
