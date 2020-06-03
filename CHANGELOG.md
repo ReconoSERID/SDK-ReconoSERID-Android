@@ -1,8 +1,9 @@
 # Change Log 
 
 ## **Version 1.4.6(30-04-2020)** ##
-new: Service search citizen by id document
 
-new: Save photo for agreement "0"
+new: Service search citizen by id document<br>
+new: Save photo for agreement "0"<br>
+new: new parameters were added for UI face<br>
 
-new: new parameters were added for UI face
+## **Version 1.4.7(03-06-2020)** ##
