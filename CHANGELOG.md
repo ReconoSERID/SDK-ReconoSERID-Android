@@ -11,3 +11,10 @@ new: new parameters were added for UI face<br>
 new: A new parameter has been added to SolicitudProceso which is used in getProcessRequest<br>
 new: The answer was changed in the document by grouping it into a single object that will contain the objects previously obtained<br>
 new: Read ecuadorian document<br>
+
+## **Version 1.4.8(03-06-2020)** ##
+
+## **Version 1.5.5(07-11-2020)** ##
+
+new: the implementation of the sdk is changed
+new: consult citizen returns more parameters about the citizen
