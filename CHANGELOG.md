@@ -18,3 +18,7 @@ new: Read ecuadorian document<br>
 
 new: the implementation of the sdk is changed
 new: consult citizen returns more parameters about the citizen
+
+## **Version 1.5.7(22-12-2020)** ##
+
+new: design changes in the ui of facial recognition
