@@ -19,3 +19,23 @@ El SDK Solicita los permisos al sistema de:
 [Ver documentación](https://github.com/ReconoSERID/SDK-ReconoSerId-Android/wiki)
 
 
+## **English** ##
+
+# SDK reconoSER ID Android
+
+This [reconoSER ID] SDK (https://reconoserid.com/), provides screens and methods for Android applications to capture and analyze live ID documents and faces in order to verify based on the information provided the digital identity of your users.
+
+This SDK integrates with the reconoSER ID administrator API, allowing you to visualize the interactions and actions of your users using the **authToken** and **GUIDConvention** provided by the commercial team.
+
+## **Requirements** ##
+
+* minSdkVersion 22
+* Java version 8 support
+
+SDK Requests permissions to the system from:
+
+* Internet
+* Camera
+* Phone
+
+[See documentation](https://github.com/ReconoSERID/SDK-ReconoSerId-Android/wiki)
