@@ -38,4 +38,4 @@ SDK Requests permissions to the system from:
 * Camera
 * Phone
 
-[See documentation](https://github.com/ReconoSERID/SDK-ReconoSerId-Android/wiki)
+[See documentation](Home---English-Version)
